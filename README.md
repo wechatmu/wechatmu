@@ -11,7 +11,7 @@
 
 **商务合作请加微信：DiscoveryUpup**
 
-<img src="http://www.wechatmu.net/picture/wxpay_qr_code-8e2660509c.png" width="320" align=center/>
+<img src="http://www.wechatmu.net/picture/wxpay_qr_code-8e2660509c.png" width="120" align=center/>
 
 正常使用软件不会导致封号。
 
