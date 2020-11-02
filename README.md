@@ -2,7 +2,8 @@
 # 适配所有类型个人微信号及版本
 # 支持傻瓜式二次开发
 # WeQuick 接口规范
-![alt logo](http://www.wechatmu.net/picture/logo.png)
+#![alt logo]()
+<img src="http://www.wechatmu.net/picture/logo.png" width="120" align=center/>
 
 ------
 **商务合作请加微信：abcdefg_12345654321**
