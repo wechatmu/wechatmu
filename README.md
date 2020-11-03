@@ -2901,11 +2901,11 @@
     }
 }
 ```
+**商务合作请加微信：13585609120
 
-**商务合作请加微信：abcdefg_12345654321**
+<img src="http://www.wechatmu.net/picture/alipay_qr_code-6603dbdea2.png" width="120" align=center/>
 
-<img src="https://wequick-1257130190.cos.ap-shanghai.myqcloud.com/img/xiaore.jpg" width="200" align=center/>
+**商务合作请加QQ：281278226
 
-**商务合作请加微信：DiscoveryUpup**
-
-<img src="https://wequick-1257130190.cos.ap-shanghai.myqcloud.com/img/service.png" width="200" align=center/>
+<img src="http://www.wechatmu.net/picture/wxpay_qr_code-8e2660509c.png" width="120" align=center/>
+------
