@@ -5,13 +5,7 @@
 <img src="http://www.wechatmu.net/picture/logo.png" width="120" align=center/>
 
 ------
-**商务合作请加微信：13585609120
 
-<img src="http://www.wechatmu.net/picture/alipay_qr_code-6603dbdea2.png" width="120" align=center/>
-
-**商务合作请加QQ：281278226
-
-<img src="http://www.wechatmu.net/picture/wxpay_qr_code-8e2660509c.png" width="120" align=center/>
 
 正常使用软件不会导致封号。
 
